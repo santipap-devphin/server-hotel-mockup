@@ -1,0 +1,38 @@
+[
+    {
+        "amenid":1 ,
+        "amenname":"ไวไฟ" ,
+        "amennameen":"WIFI" ,
+        "acreatedate":"20230806_22:54:57"
+    },
+    {
+        "amenid":2 ,
+        "amenname":"ที่จอดรถ" ,
+        "amennameen":"PARKING" ,
+        "acreatedate":"20230806_22:54:57"
+    },
+    {
+        "amenid":3 ,
+        "amenname":"อาหารและเครื่องดื่ม" ,
+        "amennameen":"FOOD&DRINK" ,
+        "acreatedate":"20230806_22:54:57"
+    },
+    {
+        "amenid":4 ,
+        "amenname":"สระว่ายน้ำส่วนตัว" ,
+        "amennameen":"POOL PRIVATE" ,
+        "acreatedate":"20230806_22:54:57"
+    },
+    {
+        "amenid":5 ,
+        "amenname":"ห้องนั่งเล่น" ,
+        "amennameen":"LIVING ROOM" ,
+        "acreatedate":"20230806_22:54:57"
+    },
+    {
+        "amenid":6 ,
+        "amenname":"เก้าอี้อาบแดด" ,
+        "amennameen":"SUN LOUNGER" ,
+        "acreatedate":"20230806_22:54:57"
+    }
+]

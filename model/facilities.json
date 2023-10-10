@@ -1,0 +1,177 @@
+[
+    {
+        "facid":1 ,
+        "facname":"แชมพู",
+        "facnameen":"shampoo",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":2 ,
+        "facname":"ครีมนวด",
+        "facnameen":"conditioner",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":3 ,
+        "facname":"ครีมอาบน้ำ",
+        "facnameen":"shower cream",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":4 ,
+        "facname":"หมวกคลุมอาบน้ำ",
+        "facnameen":"shower cap",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":5 ,
+        "facname":"แปรงฟัน/ยาสีฟัน",
+        "facnameen":"Tooth Brush/Toothpaste",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":6 ,
+        "facname":"ผ้าขนหนู",
+        "facnameen":"towel",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":7 ,
+        "facname":"ไดร์เป่าผม",
+        "facnameen":"hair dryer",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":8 ,
+        "facname":"สบู่ล้างมือ",
+        "facnameen":"hand soap",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":9 ,
+        "facname":"ชุดคลุมอาบน้ำ",
+        "facnameen":"bathrobe",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":10 ,
+        "facname":"สลิปเปอร์",
+        "facnameen":"slipper",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":11 ,
+        "facname":"เครื่องทำน้ำอุ่น",
+        "facnameen":"water heater",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":12 ,
+        "facname":"ร่ม",
+        "facnameen":"umbrella",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":13 ,
+        "facname":"ตู้เซฟ",
+        "facnameen":"safe box",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":14 ,
+        "facname":"ตู้เย็น",
+        "facnameen":"fridge",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":15 ,
+        "facname":"ทีวี",
+        "facnameen":"TV",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":16 ,
+        "facname":"แอร์",
+        "facnameen":"air conditioner",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":17 ,
+        "facname":"ตู้เก็บรองเท้า",
+        "facnameen":"shoe cabinet",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":18 ,
+        "facname":"รองเท้าแตะ",
+        "facnameen":"sandals",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":19 ,
+        "facname":"โคมไฟ",
+        "facnameen":"lamp",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":20 ,
+        "facname":"กาน้ำร้อน",
+        "facnameen":"kettle",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":21 ,
+        "facname":"แก้วน้ำ",
+        "facnameen":"glass",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":22 ,
+        "facname":"โต๊ะเครื่องแป้ง",
+        "facnameen":"dressing table",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":23 ,
+        "facname":"ชุดโต๊ะทานข้าว",
+        "facnameen":"dining table set",
+        "faccreatedate":"20230806_22:54:57"
+
+    },
+    {
+        "facid":24 ,
+        "facname":"โซฟา",
+        "facnameen":"Sofa",
+        "faccreatedate":"20230806_22:54:57"
+    },
+    {
+        "facid":25 ,
+        "facname":"ระเบียง",
+        "facnameen":"Balcony",
+        "faccreatedate":"20230806_22:54:57"
+
+    }
+   
+]

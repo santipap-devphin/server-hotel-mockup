@@ -1,0 +1,18 @@
+[
+    {
+        "groupid":1,
+        "groupname":"Room",
+        "groupCreate":""
+    },
+    {
+        "groupid":2,
+        "groupname":"Experience",
+        "groupCreate":""
+    },
+    {
+        "groupid":3,
+        "groupname":"Events",
+        "groupCreate":""
+    }
+    
+]

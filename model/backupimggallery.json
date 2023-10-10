@@ -1,0 +1,98 @@
+{
+    "statusCode":200 ,
+    "result" : [
+        {
+            "imgid":1,
+            "src": "http://suneditor.com/docs/cat.jpg",
+            "name": "Tabby",
+            "des":"",
+            "size":{"width":300 , "height":300},
+            "alt": "Tabby",
+            "tag": "Hotel"
+            },
+            {
+            "src": "http://suneditor.com/docs/cat1.jpg",
+            "name": "Cat paw",
+            "alt": "Cat paw",
+            "tag": "Experience"
+            },
+            {
+            "src": "http://suneditor.com/docs/cat2.jpg",
+            "name": "Cat",
+            "alt": "Cat",
+            "tag": "Experience"
+            },
+            {
+            "src": "http://suneditor.com/docs/dog.jpg",
+            "name": "Dog",
+            "alt": "Dog",
+            "tag": "Experience"
+            },
+            {
+            "src": "http://suneditor.com/docs/welsh Corgi.jpg",
+            "name": "Welsh Corgi",
+            "alt": "Welsh Corgi",
+            "tag": "Gallery"
+            },
+            {
+            "src": "http://suneditor.com/docs/retriever.jpg",
+            "name": "Retriever",
+            "alt": "Retriever",
+            "tag": "Gallery"
+            },
+            {
+            "src": "http://suneditor.com/docs/tiger1.jpg",
+            "name": "Tiger-1",
+            "alt": "Tiger",
+            "tag": "Cafe"
+            },
+            {
+            "src": "http://suneditor.com/docs/tiger2.jpg",
+            "name": "Tiger-2",
+            "alt": "Tiger",
+            "tag": "Event"
+            },
+            {
+            "src": "http://suneditor.com/docs/tiger3.jpg",
+            "name": "Tiger-3",
+            "alt": "Tiger",
+            "tag": "Event"
+            },
+            {
+            "src": "http://suneditor.com/docs/white-eagle.jpg",
+            "name": "White eagle",
+            "alt": "Bird-White eagle",
+            "tag": "Event"
+            },
+            {
+            "src": "http://suneditor.com/docs/ara.jpg",
+            "name": "Ara",
+            "alt": "Bird-Ara",
+            "tag": "Hotel"
+            },
+            {
+            "src": "http://suneditor.com/docs/dove.jpg",
+            "name": "Dove",
+            "alt": "Bird-Dove",
+            "tag": "Hotel"
+            },
+            {
+            "src": "http://suneditor.com/docs/big-whale.jpg",
+            "name": "Big whale",
+            "alt": "Big whale",
+            "tag": "Event"
+            },
+            {
+            "src": "http://suneditor.com/docs/sea-whale.jpg",
+            "name": "Whale of the sea",
+            "alt": "Whale of the sea",
+            "tag": "Cafe"
+            },
+            {
+            "src": "http://suneditor.com/docs/blue-whale.jpg",
+            "name": "Blue whale",
+            "alt": "Blue whale",
+            "tag": "Experience"
+            }
+    ]
+ }
